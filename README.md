@@ -1,23 +1,21 @@
 # Hi there, I'm Giovanni Lunetta 👋
 
-<img src="IMG-5461.jpg" width="100" height="120">
+<img src="IMG-5461.jpg" width="100" height="120" alt="Giovanni Lunetta's profile picture">
 
-I'm a graduate student at the University of Connecticut, where I'm currently pursuing a Master's degree in Data Science. Having graduated in 2023 from UConn, I hold a major in Statistics and Political Science along with a minor in Mathematics.
+I'm a graduate student at the **University of Connecticut**, pursuing a Master's degree in **Data Science**. I graduated in 2023 from UConn, majoring in **Statistics** and **Political Science** and minoring in **Mathematics**.
 
-## About Me 🌐
+## About Me
 
-- 🔭 I'm passionate about **Healthcare** and **Sports**
-- 🎓 **Majors:** Statistics, Political Science
-- 📚 **Minor:** Mathematics
+- 🎓 **Fields of Study:** Statistics, Political Science (Majors), Mathematics (Minor)
 - 🏫 **Alma Mater:** University of Connecticut (UConn), 2023 Graduate
-- 🎯 **Interests:** Applying data science techniques in healthcare and sports analytics
+- 🔭 **Interests:** Healthcare, Sports, and Data Science Applications
 
-## Connect with Me 📬
+## Connect
 
-Feel free to visit [my overall GitHub page](https://github.com/giovanni-lunetta/) to explore my projects and get to know more about my work.
-
-If you'd like to reach out, you can connect with me on [LinkedIn](https://www.linkedin.com/in/giovanni-lunetta/), or send me an email at glunetta02@gmail.com.
+- [GitHub](https://github.com/giovanni-lunetta/)
+- [LinkedIn](https://www.linkedin.com/in/giovanni-lunetta/)
+- 📧 **Email:** glunetta02@gmail.com
 
 ---
 
-Thank you for visiting my profile, and have a great day!
+Thank you for visiting my profile!
