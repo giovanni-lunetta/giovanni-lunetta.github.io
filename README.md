@@ -1,6 +1,6 @@
 # Hi there, I'm Giovanni Lunetta 👋
 
-<img src="IMG-5461.jpg" width="100" height="120" />
+<img src="IMG-5461.jpg" width="100" height="120">
 
 I'm a graduate student at the University of Connecticut, where I'm currently pursuing a Master's degree in Data Science. Having graduated in 2023 from UConn, I hold a major in Statistics and Political Science along with a minor in Mathematics.
 
