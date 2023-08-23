@@ -8,6 +8,10 @@ I'm a graduate student at the **University of Connecticut**, pursuing a Master's
 - 🏫 **Alma Mater:** University of Connecticut (UConn), 2023 Graduate
 - 🔭 **Interests:** Healthcare, Sports, and Data Science Applications
 
+## Resume 📄
+
+You can find my resume [here](Giovanni-Lunetta-Resume.pdf).
+
 ## Connect
 
 - [GitHub](https://github.com/giovanni-lunetta/)
